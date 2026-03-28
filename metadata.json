@@ -1,0 +1,5 @@
+{
+  "name": "ImageFlow Batch Generator",
+  "description": "Batch image generation and PSD format conversion tool.",
+  "requestFramePermissions": []
+}
